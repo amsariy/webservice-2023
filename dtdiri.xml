@@ -5,7 +5,7 @@
         <namaPanggilan>Sari</namaPanggilan>
         <TTL>Semarang, 30 Maret 1998</TTL>
         <alamat>
-            <Jalan>Jl. Bergota Malangsari</jalan>
+            <jalan>Jl. Bergota Malangsari</jalan>
             <RT>03</RT>
             <RW>05</RW>
             <kelurahan>Randusari</kelurahan>

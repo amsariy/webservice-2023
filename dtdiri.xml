@@ -2,15 +2,37 @@
 <biodata>
     <dataDiri>
         <nama>Ambarsari</nama>
-        <TTL>Seamrang, 30 Maret 2003</TTL>
-        <alamat>Jl. Bergota Malangsari</alamat>
+        <namaPanggilan>Sari</namaPanggilan>
+        <TTL>Semarang, 30 Maret 1998</TTL>
+        <alamat>
+            <Jalan>Jl. Bergota Malangsari</jalan>
+            <RT>03</RT>
+            <RW>05</RW>
+            <kelurahan>Randusari</kelurahan>
+            <kecamatan>Semarang Selatan</kecamatan>
+            <kota>Kota Semarang</kota>
+            <provinsi>Jawa Tengah</provinsi>
+        </alamat>
+        <pendidikan>
+            <TK>TK Bustanul</TK>
+            <SD>SD AL Huda</SD>
+            <SMK>SMK Muhammadiyah 01 jurusan Akuntansi</SMK>
+        </pendidikan>
+        <pekerjaan>
+            <1>Media Sosial Marketing</1>
+            <2>Pelatih Tari</2>
+            <3>Penari Tradisional</3>
+            <4>menjual aksesoris (konektor hijab, strapmask, kalung, gelang)</4>
+        </pekerjaan>
     </dataDiri>
     <dataOrtu>
         <dataAyah>
             <namaAyah>Hardi</namaAyah>
+            <TTL>Semarang, 7 April 1974</TTL>
         </dataAyah>
         <dataIbu>
             <namaIbu>Ni Putu Manis</namaIbu>
+            <TTL>Singaraja, 8 Januari 1976>/TTL>
         </dataIbu>
     </dataOrtu>
 </biodata>

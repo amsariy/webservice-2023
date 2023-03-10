@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<biodata>
+    <dataDiri>
+        <nama>Ambarsari</nama>
+        <TTL>Seamrang, 30 Maret 2003</TTL>
+        <alamat>Jl. Bergota Malangsari</alamat>
+    </dataDiri>
+    <dataOrtu>
+        <dataAyah>
+            <namaAyah>Hardi</namaAyah>
+        </dataAyah>
+        <dataIbu>
+            <namaIbu>Ni Putu Manis</namaIbu>
+        </dataIbu>
+    </dataOrtu>
+</biodata>

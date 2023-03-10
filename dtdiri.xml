@@ -19,10 +19,10 @@
             <SMK>SMK Muhammadiyah 01 jurusan Akuntansi</SMK>
         </pendidikan>
         <pekerjaan>
-            <1>Media Sosial Marketing</1>
-            <2>Pelatih Tari</2>
-            <3>Penari Tradisional</3>
-            <4>menjual aksesoris (konektor hijab, strapmask, kalung, gelang)</4>
+            <satu>Media Sosial Marketing</satu>
+            <dua>Pelatih Tari</dua>
+            <tiga>Penari Tradisional</tiga>
+            <empat>menjual aksesoris (konektor hijab, strapmask, kalung, gelang)</empat>
         </pekerjaan>
     </dataDiri>
     <dataOrtu>
@@ -32,7 +32,7 @@
         </dataAyah>
         <dataIbu>
             <namaIbu>Ni Putu Manis</namaIbu>
-            <TTL>Singaraja, 8 Januari 1976>/TTL>
+            <TTL>Singaraja, 8 Januari 1976</TTL>
         </dataIbu>
     </dataOrtu>
 </biodata>
